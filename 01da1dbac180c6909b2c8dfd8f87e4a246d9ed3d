@@ -1,0 +1,8 @@
+Code-Review+2: Ken'ichi Ohmichi <ken1ohmichi@gmail.com>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 Jun 2016 18:21:15 +0000
+Reviewed-on: https://review.openstack.org/328352
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master

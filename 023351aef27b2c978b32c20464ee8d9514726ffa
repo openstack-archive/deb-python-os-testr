@@ -1,0 +1,8 @@
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Jun 2016 20:49:16 +0000
+Reviewed-on: https://review.openstack.org/332335
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master

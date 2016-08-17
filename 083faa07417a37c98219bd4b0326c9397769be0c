@@ -1,0 +1,9 @@
+Code-Review+1: Masayuki Igawa <masayuki.igawa@gmail.com>
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 11 Aug 2016 20:46:55 +0000
+Reviewed-on: https://review.openstack.org/347836
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master
