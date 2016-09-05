@@ -1,4 +1,5 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=openstack/os-testr.git
+project=openstack/deb-python-os-testr.git
+defaultbranch=debian/newton
