@@ -35,8 +35,8 @@ Build-Depends-Indep: python-babel (>= 2.3.4),
 Build-Conflicts: python-os-testr,
                  python3-os-testr,
 Standards-Version: 3.9.8
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-os-testr.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-os-testr.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-os-testr?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-python-os-testr -b debian/newton
 Homepage: https://github.com/openstack/os-testr
 XS-Testsuite: autopkgtest
 
