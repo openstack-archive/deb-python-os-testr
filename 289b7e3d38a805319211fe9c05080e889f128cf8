@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 03 Mar 2017 00:04:01 +0000
+Reviewed-on: https://review.openstack.org/436563
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master
