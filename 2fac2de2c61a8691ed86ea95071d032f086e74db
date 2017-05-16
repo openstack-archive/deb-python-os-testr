@@ -1,0 +1,10 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Andrea Frittoli <andrea.frittoli@gmail.com>
+Workflow+1: Andrea Frittoli <andrea.frittoli@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 16 May 2017 13:02:54 +0000
+Reviewed-on: https://review.openstack.org/465023
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master
