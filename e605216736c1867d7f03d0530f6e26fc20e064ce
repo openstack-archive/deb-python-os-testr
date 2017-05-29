@@ -1,0 +1,8 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 29 May 2017 01:59:46 +0000
+Reviewed-on: https://review.openstack.org/465336
+Project: openstack/deb-python-os-testr
+Branch: refs/heads/master
